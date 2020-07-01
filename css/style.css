@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+    
+    
+}
+.heading h2{
+    color: whitesmoke;
+    font-size: 3rem;
+
+}
+div{
+    text-align: center;
+    
+    padding: 2rem;
+
+
+}
+video{
+    width: 30rem;
+    height: 30rem;
+}
+.media{
+    display: flex;
+    justify-content: center;
+    height: 110vh;
+    background: #c800f5;
+}
+  .heading{
+      color:  black;
+     margin-left: auto;
+     font-size: 10rem;
+
+}
+ .landing{
+    height: 100vh;
+    background: url('../images/mianbackground.jpg');
+    background-size: cover;
+}
+.coding{
+    justify-content: space-around;
+    background: #f5c000;
+    display: flex;
+    height: 110vh;
+}
+img{
+    height: 30rem;
+    width: 30rem;
+}
+p{
+    font-size: 3rem;
+}
+.footer{
+    background: black;
+    color: white;
+    justify-content: space-around;
+}
